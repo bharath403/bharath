@@ -2,7 +2,7 @@
   <!-- Define the properties used by the build -->
   <property name="app.name"      value="helloWorld"/>
   <property name="app.version"   value="0.1-dev"/>
-  <property name="tcserver.home" value="/usr/tomcat/apache-tomcat-7.0.68" />
+  <property name="tcserver.home" value="/usr/apache/apache-tomcat-7.0.67" />
   <property name="work.home"    value="${basedir}/work"/>
   <property name="dist.home"     value="${basedir}/dist"/>
   <property name="src.home"      value="${basedir}/src"/>
